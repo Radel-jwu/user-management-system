@@ -4,4 +4,4 @@
 
 "MUNOZ ANNELOB: Front-End / Back-End / Tester"
 
-"PAGENTE: Front-End / Back-End"
+"PAGENTE CHRIS NINO: Front-End / Back-End"
